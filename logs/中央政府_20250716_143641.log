@@ -1,3 +1,0 @@
-2025-07-16 14:36:41.923 | INFO     | src.storage.database_handler:init_database:66 - 数据库初始化完成
-2025-07-16 14:36:41.923 | INFO     | src.crawlers.base_crawler:__init__:34 - 初始化爬虫: 中央政府, 会话ID: 20250716_143641
-2025-07-16 14:36:41.923 | INFO     | test_crawler:__init__:21 - 测试爬虫初始化完成
