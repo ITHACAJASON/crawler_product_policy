@@ -1,0 +1,8 @@
+2025-07-16 14:35:26 | INFO     | __main__:setup_logging:39 - 政策爬虫程序启动
+2025-07-16 14:35:26 | INFO     | __main__:get_start_url:70 - 起始URL: https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?t=zhengcelibrary&q=养老&p=1&n=10
+2025-07-16 14:39:51 | INFO     | __main__:setup_logging:39 - 政策爬虫程序启动
+2025-07-16 14:39:51 | INFO     | __main__:get_start_url:70 - 起始URL: https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?t=zhengcelibrary&q=养老&p=1&n=10
+2025-07-16 14:40:09 | INFO     | __main__:setup_logging:39 - 政策爬虫程序启动
+2025-07-16 14:40:09 | INFO     | __main__:get_start_url:70 - 起始URL: https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?t=zhengcelibrary&q=养老&p=1&n=10
+2025-07-16 14:40:48 | INFO     | __main__:setup_logging:39 - 政策爬虫程序启动
+2025-07-16 14:40:48 | INFO     | __main__:get_start_url:70 - 起始URL: https://sousuo.www.gov.cn/zcwjk/policyDocumentLibrary?t=zhengcelibrary&q=养老&p=1&n=10
